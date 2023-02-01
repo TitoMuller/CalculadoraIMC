@@ -20,7 +20,7 @@ A Calculadora de IMC é o meu primeiro projeto visando o Desenvolvimento Android
 - FindViewById para recuperar components de UI
 - String resource para concatenação de textos
 
-### TODO
+### TO DO
 - Melhorar estilização do app
 
 ## Author
